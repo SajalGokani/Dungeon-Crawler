@@ -1,0 +1,14 @@
+C:\Users\gokan\source\repos\Assessment 1-Dungeon Crawler\Assessment 1-Dungeon Crawler\bin\Debug\net8.0\Assessment 1-Dungeon Crawler.exe
+C:\Users\gokan\source\repos\Assessment 1-Dungeon Crawler\Assessment 1-Dungeon Crawler\bin\Debug\net8.0\Assessment 1-Dungeon Crawler.deps.json
+C:\Users\gokan\source\repos\Assessment 1-Dungeon Crawler\Assessment 1-Dungeon Crawler\bin\Debug\net8.0\Assessment 1-Dungeon Crawler.runtimeconfig.json
+C:\Users\gokan\source\repos\Assessment 1-Dungeon Crawler\Assessment 1-Dungeon Crawler\bin\Debug\net8.0\Assessment 1-Dungeon Crawler.dll
+C:\Users\gokan\source\repos\Assessment 1-Dungeon Crawler\Assessment 1-Dungeon Crawler\bin\Debug\net8.0\Assessment 1-Dungeon Crawler.pdb
+C:\Users\gokan\source\repos\Assessment 1-Dungeon Crawler\Assessment 1-Dungeon Crawler\obj\Debug\net8.0\Assessment 1-Dungeon Crawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokan\source\repos\Assessment 1-Dungeon Crawler\Assessment 1-Dungeon Crawler\obj\Debug\net8.0\Assessment 1-Dungeon Crawler.AssemblyInfoInputs.cache
+C:\Users\gokan\source\repos\Assessment 1-Dungeon Crawler\Assessment 1-Dungeon Crawler\obj\Debug\net8.0\Assessment 1-Dungeon Crawler.AssemblyInfo.cs
+C:\Users\gokan\source\repos\Assessment 1-Dungeon Crawler\Assessment 1-Dungeon Crawler\obj\Debug\net8.0\Assessment 1-Dungeon Crawler.csproj.CoreCompileInputs.cache
+C:\Users\gokan\source\repos\Assessment 1-Dungeon Crawler\Assessment 1-Dungeon Crawler\obj\Debug\net8.0\Assessment 1-Dungeon Crawler.dll
+C:\Users\gokan\source\repos\Assessment 1-Dungeon Crawler\Assessment 1-Dungeon Crawler\obj\Debug\net8.0\refint\Assessment 1-Dungeon Crawler.dll
+C:\Users\gokan\source\repos\Assessment 1-Dungeon Crawler\Assessment 1-Dungeon Crawler\obj\Debug\net8.0\Assessment 1-Dungeon Crawler.pdb
+C:\Users\gokan\source\repos\Assessment 1-Dungeon Crawler\Assessment 1-Dungeon Crawler\obj\Debug\net8.0\Assessment 1-Dungeon Crawler.genruntimeconfig.cache
+C:\Users\gokan\source\repos\Assessment 1-Dungeon Crawler\Assessment 1-Dungeon Crawler\obj\Debug\net8.0\ref\Assessment 1-Dungeon Crawler.dll
